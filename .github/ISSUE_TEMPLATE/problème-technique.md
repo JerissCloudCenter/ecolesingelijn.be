@@ -7,19 +7,18 @@ assignees: ''
 
 ---
 
-### Quel est le problème ?
+### Quel est le problème technique auquel vous faites face ?
 
+...
+
+### Que souhaiteriez-vous voir à la place de la situation actuelle ?
+
+...
 
 ### Comment peut-on reproduire ce problème ?
 
+...
 
-### Quel est la situation actuelle ?
+### Ajoutez des captures d'écran ou des vidéos (screencasts)
 
-
-### Quelle serait la situation préférée ?
-
-
-### Captures d'écran / Vidéos
-
-
-### Contexte
+...
