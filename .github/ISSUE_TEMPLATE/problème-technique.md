@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-#Quel est le problème ?#
+### Quel est le problème ?
 
 
-#Comment peut-on reproduire ce problème ?#
+### Comment peut-on reproduire ce problème ?
 
 
-#Quel est la situation actuelle ?#
+### Quel est la situation actuelle ?
 
 
-#Quelle serait la situation préférée ?#
+### Quelle serait la situation préférée ?
 
 
-#Captures d'écran / Vidéos#
+### Captures d'écran / Vidéos
 
 
-#Contexte#
+### Contexte
