@@ -3,7 +3,7 @@ name: Problème technique
 about: Décrivez le problème que vous rencontrez.
 title: ''
 labels: ecolesingelijn.be
-assignees: ''
+assignees: JerissCloudCenter
 
 ---
 
